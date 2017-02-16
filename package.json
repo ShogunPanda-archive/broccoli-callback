@@ -1,6 +1,6 @@
 {
   "name": "broccoli-callback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to execute any code within Broccoli builds.",
   "main": "index.js",
   "files": [
@@ -16,7 +16,9 @@
     "type": "git",
     "url": "https://github.com/ShogunPanda/broccoli-callback"
   },
-  "keywords": ["broccoli-plugin"],
+  "keywords": [
+    "broccoli-plugin"
+  ],
   "author": "Shogun <shogun@cowtech.it>",
   "license": "MIT",
   "bugs": {
