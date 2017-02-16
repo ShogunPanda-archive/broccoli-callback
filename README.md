@@ -4,7 +4,7 @@
 
 https://sw.cowtech.it/broccoli-callback
 
-A plugin to execute any code with Broccoli builds.
+A plugin to execute any code within Broccoli builds.
 
 To use it, simply create a new instance of the plugin passing a callback function.
 

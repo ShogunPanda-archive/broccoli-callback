@@ -1,7 +1,7 @@
 {
   "name": "broccoli-callback",
   "version": "1.0.0",
-  "description": "A plugin to execute any code with Broccoli builds.",
+  "description": "A plugin to execute any code within Broccoli builds.",
   "main": "index.js",
   "files": [
     "index.js",
