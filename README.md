@@ -1,12 +1,15 @@
 # broccoli-callback
 
 [![Package Version](https://badge.fury.io/js/broccoli-callback.png)](http://badge.fury.io/js/broccoli-callback)
+[![Dependency Status](https://gemnasium.com/ShogunPanda/broccoli-callback.png?travis)](https://gemnasium.com/ShogunPanda/broccoli-callback)
 
 https://sw.cowtech.it/broccoli-callback
 
 A plugin to execute any code within Broccoli builds.
 
-To use it, simply create a new instance of the plugin passing a callback function.
+## Usage
+
+Simply create a new instance of the plugin passing a callback function.
 
 The function will receive the current [plugin](https://github.com/broccolijs/broccoli-plugin).
 
