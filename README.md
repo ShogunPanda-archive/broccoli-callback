@@ -1,7 +1,7 @@
 # broccoli-callback
 
-[![Package Version](https://badge.fury.io/js/broccoli-callback.png)](http://badge.fury.io/js/broccoli-callback)
-[![Dependency Status](https://gemnasium.com/ShogunPanda/broccoli-callback.png?travis)](https://gemnasium.com/ShogunPanda/broccoli-callback)
+[![Package Version](https://img.shields.io/npm/v/broccoli-callback.svg)](https://npmjs.com/package/broccoli-callback)
+[![Dependency Status](https://img.shields.io/gemnasium/ShogunPanda/broccoli-callback.svg)](https://gemnasium.com/ShogunPanda/broccoli-callback)
 
 https://sw.cowtech.it/broccoli-callback
 
@@ -44,4 +44,4 @@ broccoli-callback supports and has been tested on [NodeJS](http://nodejs.org) 6.
 
 Copyright (C) 2017 and above Shogun <shogun@cowtech.it>.
 
-Licensed under the MIT license, which can be found at http://opensource.org/licenses/MIT.
+Licensed under the MIT license, which can be found at https://choosealicense.com/licenses/mit.
