@@ -1,13 +1,6 @@
 # broccoli-callback
 
-[![Package Version](https://img.shields.io/npm/v/broccoli-callback.svg)](https://npmjs.com/package/broccoli-callback)
-[![Dependency Status](https://img.shields.io/gemnasium/ShogunPanda/broccoli-callback.svg)](https://gemnasium.com/ShogunPanda/broccoli-callback)
-
-## END OF DEVELOPMENT NOTICE
-
-# This gem has been discontinued.
-
-https://sw.cowtech.it/broccoli-callback
+## END OF DEVELOPMENT NOTICE - This package has been discontinued
 
 A plugin to execute any code within Broccoli builds.
 
